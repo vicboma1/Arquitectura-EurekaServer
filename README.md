@@ -4,7 +4,7 @@ Arrancamos eureka
 ```
  mvn run 
  
- INFO 17208 --- [           main] es.vicboma.boot.ApplicationEurekaServer  : No active profile set, falling back to default profiles: default
+INFO 17208 --- [           main] es.vicboma.boot.ApplicationEurekaServer  : No active profile set, falling back to default profiles: default
 WARN 17208 --- [           main] o.s.boot.actuate.endpoint.EndpointId     : Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
 INFO 17208 --- [           main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=039e5fbc-996b-30f0-83b1-2034e5dc6c92
 INFO 17208 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$d4245eb4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
