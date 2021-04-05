@@ -61,4 +61,4 @@ Web
 http://localhost:8761
 ```
 
-|[](https://github.com/vicboma1/Arquitectura-EurekaServer/blob/main/assets/Sin%20t%C3%ADtulo.png)
+![](https://github.com/vicboma1/Arquitectura-EurekaServer/blob/main/assets/Sin%20t%C3%ADtulo.png)
